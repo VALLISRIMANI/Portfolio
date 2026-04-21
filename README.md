@@ -1,4 +1,4 @@
-# 🌷 Vallisrimani's Portfolio
+# 🌷💃🏻 Vallisrimani's Portfolio
 
 A simple and modern portfolio showcasing my work, skills, and projects in software development and AI.
 
@@ -11,7 +11,7 @@ I enjoy working on web development, AI-based applications, and creating meaningf
 ---
 
 ## 🌐 Live Website
-🔗 https://vallisrimani.com
+🔗 https://vallisrimani-portfolio.vercel.app
 ---
 
 ## 💫 Features
@@ -64,9 +64,9 @@ Generates resumes & cover letters using AI
 ---
 
 ## 📬 Contact
-- 📧 manigudapati61@gmail.com  
-- 🔗 https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/  
-- 💻 https://github.com/VALLISRIMANI  
+- 📧 Email(manigudapati61@gmail.com)  
+- 🔗 LinkedIn(https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/)  
+- 💻 Github(https://github.com/VALLISRIMANI)  
 
 ---
 
