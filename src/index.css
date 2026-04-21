@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));  /* ← ADD THIS LINE */
+
+@theme {
+  /* Backgrounds */
+  --color-page: #F5F5F5;
+  --color-card: #FFFFFF;
+  --color-subtle: #EFEFEF;
+  --color-page-dark: #1A1A1A;
+  --color-card-dark: #242424;
+  --color-subtle-dark: #2E2E2E;
+
+  /* Teal scale */
+  --color-teal-50: #E6F4F0;
+  --color-teal-100: #C2E8DE;
+  --color-teal-200: #A7D9CC;
+  --color-teal-300: #6EC4AD;
+  --color-teal-400: #2BAD8A;
+  --color-teal-500: #1A8C6E;
+  --color-teal-600: #0F6E56;
+  --color-teal-700: #0A4F3D;
+  --color-teal-800: #063428;
+  --color-teal-900: #031A14;
+
+  /* Border */
+  --color-border: #E8E8E8;
+  --color-border-dark: #333333;
+}
+
+*, *::before, *::after {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.2s ease;
+}

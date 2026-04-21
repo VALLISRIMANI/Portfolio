@@ -1,0 +1,6 @@
+E:\     npm create vite@latest portfolio -- --template react
+
+E:\     cd portfolio
+
+E:\portfolio   npm install tailwindcss @tailwindcss/vite react-router-dom framer-motion react-type-animation @emailjs/browser react-hot-toast lucide-react
+

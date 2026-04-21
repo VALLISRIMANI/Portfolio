@@ -1,0 +1,151 @@
+export const acnePilot = {
+  id: 'acne-pilot',
+  title: 'AcnePilot',
+  subtitle: 'AI-Powered Acne Detection & Treatment Platform',
+  description:
+    'A full-stack health-tech platform that uses a VGG deep learning model to detect and classify acne severity from uploaded images. Users complete a detailed onboarding assessment — covering skin type, lifestyle, diet, and medical history — and receive a personalised 30-day treatment plan with daily check-ins, reaction tracking and product suggestions. Features a real-time dashboard with calendar tracking, severity analytics, and community stats.',
+  role: 'Team Lead — contributed to project planning, coordination, and select implementation tasks. Core ML model and backend built by teammates.',
+  tags: ['Team lead', 'ML / AI'],
+  tech: ['Python', 'VGG Deep Learning', 'React', 'Tailwind CSS', 'JavaScript', 'REST API', 'MongoDB'],
+  github: 'https://github.com/VALLISRIMANI/Acne-Detection-ML',
+  githubBackend: 'https://github.com/VALLISRIMANI/AcneDetectionBackendREST',
+  demo: 'https://acnepilot.onrender.com',
+  mediaType: 'coming-soon',
+  accentColor: '#7C3AED',
+  highlights: [
+    'VGG model classifies acne severity with up to 74.3% confidence',
+    'Detailed onboarding — skin type, lifestyle, allergies, medications, diet',
+    'Personalised 30-day treatment plan generated post-analysis',
+    'Daily check-ins track positive/negative reactions & streaks',
+    'Product recommendations based on daily response data',
+    'Dashboard with calendar view, area heatmap & community stats',
+  ],
+}
+
+export const hunarInternTasks = [
+  {
+    id: 'hunar-1',
+    taskNumber: 'Task 01',
+    title: 'Personal Homepage',
+    subtitle: 'Portfolio Website',
+    description:
+      'A personal portfolio homepage built as part of the HunarIntern internship program. Showcases projects, skills, and contact information with a clean, responsive layout.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/VALLISRIMANI/HunarIntern/tree/main/Task-1',
+    demo: 'https://vallisrimani.github.io/HunarIntern/Task-1/',
+    video: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776600983/personal-homepage_ssgsrf.mp4',
+    accentColor: '#0F6E56',
+  },
+  {
+    id: 'hunar-2',
+    taskNumber: 'Task 02',
+    title: 'CurioMind',
+    subtitle: 'Online Course Registration Platform',
+    description:
+      'A web-based platform enabling users to browse and register for online courses. Built with structured layouts and full client-side interactivity.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/VALLISRIMANI/HunarIntern/tree/main/Task-2',
+    demo: 'https://vallisrimani.github.io/HunarIntern/Task-2/',
+    video: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774841/curio-mind_vco6va.mp4',
+    accentColor: '#0F6E56',
+  },
+  {
+    id: 'hunar-3',
+    taskNumber: 'Task 03',
+    title: 'Netflix Clone',
+    subtitle: 'Web Streaming UI Application',
+    description:
+      'A pixel-faithful Netflix UI clone featuring a landing page, content rows, hover previews, and responsive design — built purely with HTML, CSS, and JavaScript.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/VALLISRIMANI/HunarIntern/tree/main/Task-3',
+    demo: 'https://vallisrimani.github.io/HunarIntern/Task-3/',
+    video: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774784/netflix-clone_d72owh.mp4',
+    accentColor: '#0F6E56',
+  },
+  {
+    id: 'hunar-4',
+    taskNumber: 'Task 04',
+    title: 'BMI Calculator',
+    subtitle: 'Health & Fitness Tool',
+    description:
+      'An interactive BMI calculator with real-time results, category feedback (Underweight / Normal / Overweight / Obese), and a clean responsive interface.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/VALLISRIMANI/HunarIntern/tree/main/Task-4',
+    demo: 'https://vallisrimani.github.io/HunarIntern/Task-4/',
+    video: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774778/bmi-calculator_ilcojv.mp4',
+    accentColor: '#0F6E56',
+  },
+]
+
+export const projects = [
+  {
+    id: 1,
+    title: 'VelaAI - GenAI Chat Platform',
+    subtitle: 'Conversational AI with Persistent Memory',
+    description:
+      'AI-powered chatbot with persistent multi-turn memory. Maintains full conversation context across exchanges, integrating LLM API with structured prompts for context-aware real-time responses.',
+    tags: ['AI-powered'],
+    tech: ['Python', 'React', 'JavaScript', 'LLM API', 'CSS'],
+    github: 'https://github.com/VALLISRIMANI/VelaAI',
+    demo: 'https://velaai.vercel.app/',
+    media: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774728/velaai_mdsigu.mp4',
+    mediaType: 'video',
+    accentColor: '#1D9E75',
+    mockupBg: 'bg-teal-50 dark:bg-teal-800',
+  },
+  {
+    id: 2,
+    title: 'AI Resume & Cover Letter Builder',
+    subtitle: 'LLM-Powered Document Generator',
+    description:
+      'Generates tailored resumes and cover letters using LLM APIs. Structured prompt templates ensure consistent formatting across job roles; live preview-and-edit interface lets users refine and download instantly.',
+    tags: ['AI-powered'],
+    tech: ['React', 'JavaScript', 'Gemini API', 'HTML', 'CSS'],
+    github: 'https://github.com/VALLISRIMANI/AI-Resume-And-CoverLetter-Builder',
+    demo: 'https://ai-resume-and-coverletter-builder.onrender.com',
+    media: [
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600936/1_ugyd6i.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600936/2_ixtiyd.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600937/3_rd5erm.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600937/4_f6uezb.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600937/5_acjiqd.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600937/6_pu6ggh.png',
+      'https://res.cloudinary.com/dzxjvteup/image/upload/v1776600937/7_apph7e.png',
+    ],
+    mediaType: 'images',
+    accentColor: '#1D9E75',
+    mockupBg: 'bg-teal-50 dark:bg-teal-800',
+  },
+  {
+    id: 3,
+    title: 'ShopSphere',
+    subtitle: 'Full-Featured E-Commerce Platform',
+    description:
+      'A full-featured e-commerce platform with product browsing, search & filter, product detail pages, cart (add/remove/quantity), wishlist, checkout, user auth UI, and a discount/deals system. 5–8 modular React components; all state via useState and useContext.',
+    tags: ['Web'],
+    tech: ['React', 'JavaScript', 'CSS'],
+    github: 'https://github.com/VALLISRIMANI/ShopSphere',
+    demo: 'https://shop-sphere-ebon-alpha.vercel.app/',
+    media: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774880/shopsphere_przk85.mp4',
+    mediaType: 'video',
+    accentColor: '#185FA5',
+    mockupBg: 'bg-blue-50 dark:bg-blue-900',
+  },
+  {
+    id: 4,
+    title: 'Destination Stays',
+    subtitle: 'Hotel Room Booking System',
+    description:
+      'Desktop hotel booking application with dynamic room selection, availability tracking, and user profile management. Led the team end-to-end. Data persisted via CSV file I/O; full GUI built in Python Tkinter.',
+    tags: ['Team lead'],
+    tech: ['Python', 'Tkinter', 'CSV', 'GUI Design'],
+    github: 'https://github.com/VALLISRIMANI/DestinationStays',
+    demo: null,
+    media: '/assets/videos/destination-stays.mp4',
+    mediaType: 'video',
+    accentColor: '#BA7517',
+    mockupBg: 'bg-amber-50 dark:bg-amber-900',
+  },
+]
+
+export default { acnePilot, hunarInternTasks, projects }
