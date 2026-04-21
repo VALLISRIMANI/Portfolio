@@ -141,7 +141,7 @@ export const projects = [
     tech: ['Python', 'Tkinter', 'CSV', 'GUI Design'],
     github: 'https://github.com/VALLISRIMANI/DestinationStays',
     demo: null,
-    media: '/assets/videos/destination-stays.mp4',
+    media: 'https://res.cloudinary.com/dzxjvteup/video/upload/v1776774747/destination-stays_letpl6.mp4',
     mediaType: 'video',
     accentColor: '#BA7517',
     mockupBg: 'bg-amber-50 dark:bg-amber-900',
