@@ -1,79 +1,179 @@
 # 🌷💃🏻 Vallisrimani's Portfolio
 
-A simple and modern portfolio showcasing my work, skills, and projects in software development and AI.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=Vallisrimani&fontSize=40&fontColor=ffffff" />
+</p>
 
 ---
 
-## ✨ About
-I’m a Computer Science student passionate about building clean user interfaces and intelligent systems.  
-I enjoy working on web development, AI-based applications, and creating meaningful user experiences.
+## ✨ Glassmorphism Vibe
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-Glassmorphism-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Theme-Soft%20Pastel-ffc0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web-f8a5c2?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌐 Live Website
-🔗 https://vallisrimani-portfolio.vercel.app
+## 🌸 About Me
+
+```css
+/* Soft. Clean. Intelligent. */
+```
+
+🎓 Computer Science Student
+💡 Passionate about **AI + UI Design**
+🎨 Love building **aesthetic & meaningful digital experiences**
+
+> “Design meets intelligence — that’s where I build.”
+
+---
+
+## 🌐 Live Experience
+
+<p align="center">
+  <a href="https://vallisrimani-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/✨ Visit Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🪟 Visual Preview
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932173/1_cwimar.png?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932175/2_q8y6sg.pngF?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932167/3_nsph9g.png?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932166/4_ifucic.png?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932163/5_huetws.png?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932173/6_s0bkix.png?purpose=fullsize)
+
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932166/7_vwuruc.png?purpose=fullsize)
+
 ---
 
 ## 💫 Features
-- Responsive design across all devices  
-- Smooth and clean UI  
-- Project showcase with demos & code  
-- Contact form using EmailJS  
-- Dark & light theme support  
+
+<div align="center">
+
+| 🌟 Feature      | 💖 Description          |
+| --------------- | ------------------------ |
+| 📱 Responsive   | Seamless across devices |
+| 🌗 Theme Toggle | Dark + Light aesthetic  |
+| ⚡ Smooth UI    | Clean transitions       |
+| 📂 Projects     | Live demos + code       |
+| 📬 Contact      | EmailJS integration     |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-- React.js  
-- JavaScript  
-- HTML & CSS  
-- Tailwind CSS  
-- EmailJS  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+```yaml
+Frontend: React.js
+Styling: Tailwind CSS + Custom UI
+Logic: JavaScript
+Integration: EmailJS
+```
 
 ---
 
-## 🌼 Projects
+## 🌼 Projects Showcase
 
-### 💜 AcnePilot  
-AI-powered acne detection and personalized skincare platform  
-- Uses VGG model for severity classification  
-- Generates 30-day treatment plans  
-- Daily tracking & reminders  
+### 💜 AcnePilot
 
----
+```diff
++ AI-powered skincare assistant
+```
 
-### 🤖 VelaAI  
-Conversational AI chatbot with memory  
-- Maintains context across conversations  
-- Real-time intelligent responses  
+* 🧠 VGG-based acne severity detection
+* 📅 Personalized 30-day plans
+* 📊 Daily tracking system
 
 ---
 
-### 🛒 ShopSphere  
-E-commerce web application  
-- Product browsing, cart, wishlist  
-- Clean and responsive UI  
+### 🤖 VelaAI
+
+```diff
++ Smart conversational AI
+```
+
+* 💬 Context-aware memory
+* ⚡ Real-time responses
 
 ---
 
-### 📄 AI Resume Builder  
-Generates resumes & cover letters using AI  
-- Custom templates  
-- Live preview 
+### 🛒 ShopSphere
+
+```diff
++ E-commerce experience
+```
+
+* 🛍️ Cart, wishlist, browsing
+* 📱 Responsive design
 
 ---
 
-## 📬 Contact
-- 📧 Email(manigudapati61@gmail.com)  
-- 🔗 LinkedIn(https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/)  
-- 💻 Github(https://github.com/VALLISRIMANI)  
+### 📄 AI Resume Builder
+
+```diff
++ AI productivity tool
+```
+
+* 🧾 Resume + cover letters
+* 👀 Live preview
 
 ---
 
-## 🌸 Note
-This portfolio is a reflection of my learning journey and continuous growth in tech.
+## 📊 GitHub Aesthetics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VALLISRIMANI&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VALLISRIMANI&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-## 📄 License
-MIT License
+## 🪷 Design Philosophy
+
+> ✨ Minimal
+> ✨ Elegant
+> ✨ User-first
+> ✨ Emotion-driven UI
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:manigudapati61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vallisrimani-gudapati-ba7a872a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff9ff3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌸 Final Note
+
+> This portfolio is not just a project —
+> it’s a reflection of **growth, creativity, and ambition**.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fecfef,100:ff9a9e&height=120&section=footer"/>
+</p>
