@@ -1,7 +1,7 @@
 # 🌷💃🏻 Vallisrimani's Portfolio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=Vallisrimani Gudapati&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=Vallisrimani%20Gudapati&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
