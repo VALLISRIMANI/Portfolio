@@ -1,7 +1,7 @@
 # 🌷💃🏻 Vallisrimani's Portfolio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=Vallisrimani&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=Vallisrimani Gudapati&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
@@ -17,10 +17,6 @@
 ---
 
 ## 🌸 About Me
-
-```css
-/* Soft. Clean. Intelligent. */
-```
 
 🎓 Computer Science Student
 💡 Passionate about **AI + UI Design**
@@ -44,7 +40,7 @@
 
 ![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932173/1_cwimar.png?purpose=fullsize)
 
-![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932175/2_q8y6sg.pngF?purpose=fullsize)
+![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932175/2_q8y6sg.png?purpose=fullsize)
 
 ![Image](https://res.cloudinary.com/dzxjvteup/image/upload/v1776932167/3_nsph9g.png?purpose=fullsize)
 
