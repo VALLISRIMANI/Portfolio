@@ -3,21 +3,21 @@ import { Code2, ExternalLink } from 'lucide-react'
 
 export default function CodingStats() {
   const gfgStats = {
-    totalSolved: 693,
-    basicSolved: 221,
-    easySolved: 308,
-    mediumSolved: 151,
-    hardSolved: 13,
+    totalSolved: 816,
+    basicSolved: 251,
+    easySolved: 349,
+    mediumSolved: 200,
+    hardSolved: 16,
     acceptanceRate: '78.5%',
     submissions: 1200,
   }
 
   const leetStats = {
-    totalSolved: 146,
-    easySolved: 81,
-    mediumSolved: 57,
-    hardSolved: 8,
-    acceptanceRate: '85.9%',
+    totalSolved: 234,
+    easySolved: 115,
+    mediumSolved: 104,
+    hardSolved: 15,
+    acceptanceRate: '90.58%',
     submissions: 199,
   }
 

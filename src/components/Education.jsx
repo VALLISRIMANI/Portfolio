@@ -6,7 +6,7 @@ const education = [
     degree: 'B.Tech — Computer Science Engineering',
     institution: 'Sri Vasavi Engineering College, Peddatadepalli',
     period: '2023 – 2027',
-    score: 'CGPA: 9.28',
+    score: 'CGPA: 9.23',
   },
   {
     degree: 'Intermediate (MPC)',

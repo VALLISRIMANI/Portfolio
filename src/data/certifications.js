@@ -1,6 +1,14 @@
 export const certifications = [
   {
     id: 0,
+    name: 'GitHub Foundations',
+    issuer: 'Microsoft',
+    tag: 'Git & GitHub',
+    image: '/certs/github.jpg',
+    link: 'https://learn.microsoft.com/en-us/users/gudapativallisrimani-5022/credentials/72c2009cdca7586d?ref=https%3A%2F%2Fwww.linkedin.com%2F',
+  },
+  {
+    id: 1,
     name: 'Tata - GenAI Powered Data Analytics Job Simulation',
     issuer: 'Forage',
     tag: 'Data Analytics',
@@ -8,7 +16,7 @@ export const certifications = [
     link: 'https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69e1bddf615bf88e8847dcf8_1776500172644_completion_certificate.pdf',
   },
   {
-    id: 1,
+    id: 2,
     name: 'QUANTUM FUNDAMENTALS',
     issuer: 'Qubitech/Wiser',
     tag: 'Quantum',
@@ -16,7 +24,7 @@ export const certifications = [
     link: 'https://lms-cdn.qubitech.io/media/certificates/1/15cffd77/aed6a06d_845f40eb.jpg',
   },
   {
-    id: 2,
+    id: 3,
     name: 'Salesforce Certified Agentforce Specialist',
     issuer: 'Salesforce',
     tag: 'CRM',
@@ -24,7 +32,7 @@ export const certifications = [
     link: 'https://drive.google.com/file/d/1DhK3c5x9ROsVQCoHhQVm7UqU1o_3jGJp/view',
   },
   {
-    id: 3,
+    id: 4,
     name: 'Entrepreneurship ',
     issuer: 'NPTEL',
     tag: 'Entrepreneurship',
@@ -32,7 +40,7 @@ export const certifications = [
     link: 'https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/110/noc25-mg81/Course/NPTEL25MG81S46960058310627897.pdf',
   },
   {
-    id: 4,
+    id: 5,
     name: 'MongoDB Associate Developer',
     issuer: 'MongoDB',
     tag: 'Database',
@@ -40,7 +48,7 @@ export const certifications = [
     link: 'https://learn.mongodb.com/c/xEA7Ax43RsmFEXhGyfdgIA',
   },
   {
-    id: 5,
+    id: 6,
     name: 'Azure AI Fundamentals',
     issuer: 'Microsoft',
     tag: 'AI',
@@ -48,7 +56,7 @@ export const certifications = [
     link: 'https://learn.microsoft.com/api/credentials/share/en-us/GUDAPATIVALLISRIMANI-5022/AD94E1120EA64833?sharingId=D81D5D6150C1A2CF',
   },
   {
-    id: 6,
+    id: 7,
     name: 'ACE CODING INTERVIEWS: DSA Mastery with Java',
     issuer: 'ExcelR',
     tag: 'DSA',
@@ -56,7 +64,7 @@ export const certifications = [
     link: 'https://drive.google.com/file/d/1Q4-gRJ0WBPR5ww81Rw30-UE9AAwBcCAm/view',
   },
   {
-    id: 7,
+    id: 8,
     name: 'Privacy and Security in Online Social Media',
     issuer: 'NPTEL',
     tag: 'Security',
@@ -64,7 +72,7 @@ export const certifications = [
     link: 'https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs79/Course/NPTEL25CS79S55770006904362278.pdf',
   },
   {
-    id: 8,
+    id: 9,
     name: 'Introduction To Internet Of Things',
     issuer: 'NPTEL',
     tag: 'IoT',

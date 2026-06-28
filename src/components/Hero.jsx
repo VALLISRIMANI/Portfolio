@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRight, Download, GitBranch } from 'lucide-react'
 
 const stats = [
-  { value: '9.28', label: 'CGPA' },
+  { value: '9.23', label: 'CGPA' },
   { value: '2+',   label: 'AI projects' },
   { value: '5+',   label: 'Certifications' },
   { value: '2+',   label: 'Internships' },
@@ -63,7 +63,7 @@ export default function Hero() {
           className="text-sm text-slate-600 dark:text-teal-300 leading-relaxed mb-8 max-w-md"
         >
           I build intelligent web applications — from LLM-powered tools to
-          full-stack systems. Currently pursuing B.Tech CSE with a CGPA of 9.28,
+          full-stack systems. Currently pursuing B.Tech CSE with a CGPA of 9.23,
           always looking for the next interesting problem to solve.
         </motion.p>
 
@@ -121,7 +121,7 @@ export default function Hero() {
 
         {/* Skill chips below avatar */}
         <div className="flex flex-wrap flex-col sm:flex-row justify-center gap-2 mt-5 max-w-xs mx-auto cursor-pointer">
-          {['Java', 'React', 'Node.js', 'Express.js', 'Python', 'MongoDB', 'AI/ML'].map(skill => (
+          {['Java', 'SQL', 'React', 'Python', 'MongoDB', 'AI/ML'].map(skill => (
             <span
               key={skill}
               className="text-xs font-medium bg-teal-100 dark:bg-teal-800 text-teal-700 dark:text-teal-300 border border-teal-300 dark:border-teal-700 px-2.5 py-1 rounded-full"

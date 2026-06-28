@@ -5,7 +5,7 @@ export const skills = [
   },
   {
     category: 'Web & full-stack',
-    items: ['React', 'Node.js', 'Express.js', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap', 'REST APIs', 'JWT', 'OAuth'],
+    items: ['React', 'Node.js', 'Express.js', 'HTML', 'CSS', 'Tailwind CSS', 'REST APIs', 'JWT'],
   },
   {
     category: 'AI / ML',
@@ -13,7 +13,7 @@ export const skills = [
   },
   {
     category: 'Databases & tools',
-    items: ['MongoDB', 'MySQL', 'Oracle SQL', 'Git', 'GitHub', 'Postman', 'VS Code', 'Jupyter Notebook', 'MongoDB Compass', 'Mongodb Atlas', 'Linux', 'Docker', 'Azure', 'Microsoft Learn'],
+    items: ['MongoDB', 'MySQL', 'Oracle SQL', 'Git', 'GitHub', 'Postman', 'VS Code', 'Jupyter Notebook', 'MongoDB Compass', 'Mongodb Atlas', 'Docker', 'Azure', 'Microsoft Learn'],
   },
   {
     category: 'Soft skills',
