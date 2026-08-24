@@ -1,6 +1,15 @@
 export const certifications = [
   {
     id: 0,
+    name: 'ServiceNow Certified Application Developer (CAD)',
+    issuer: 'ServiceNow',
+    tag: 'Cloud',
+    image: '/certs/servicenow_cad.jpg',
+    link: 'https://drive.google.com/file/d/1slfrzK0kHDpLaEVSypdBia4F__zTrUjP/view?usp=drive_link',
+    date: '23/08/2026',
+  },
+  {
+    id: 1,
     name: 'SAP Certified - Back-End Developer - ABAP Cloud',
     issuer: 'SAP',
     tag: 'Backend',
@@ -9,7 +18,7 @@ export const certifications = [
     date: '31/07/2026',
   },
   {
-    id: 1,
+    id: 2,
     name: 'Women Who Master Hackathon',
     issuer: 'Unstop',
     tag: 'Participation',
@@ -18,16 +27,16 @@ export const certifications = [
     date: '27/07/2026',
   },
   {
-    id: 2,
+    id: 3,
     name: 'ServiceNow Certified System Administrator (CSA)',
     issuer: 'ServiceNow',
     tag: 'Cloud',
-    image: '/certs/servicenow.jpg',
+    image: '/certs/servicenow_csa.jpg',
     link: 'https://drive.google.com/file/d/1iAvYW1Or4nRNlgbDlZ2gWJXmwFlUi5Ml/view?usp=drive_link',
     date: '04/07/2026',
   },
   {
-    id: 3,
+    id: 4,
     name: 'Full Stack Java',
     issuer: 'ExcelR',
     tag: 'Internship',
@@ -36,7 +45,7 @@ export const certifications = [
     date: '02/07/2026',
   },
   {
-    id: 4,
+    id: 5,
     name: 'GitHub Foundations',
     issuer: 'Microsoft',
     tag: 'Git & GitHub',
@@ -46,7 +55,7 @@ export const certifications = [
     date: '28/06/2026',
   },
   {
-    id: 5,
+    id: 6,
     name: 'Career Essentials in Generative AI by Microsoft and LinkedIn',
     issuer: 'LinkedIn Learning/Microsoft',
     tag: 'AI',
@@ -55,7 +64,7 @@ export const certifications = [
     date: '09/06/2026',
   },
   {
-    id: 6,
+    id: 7,
     name: 'MATLAB Onramp',
     issuer: 'MathWorks',
     tag: 'Course Completion',
@@ -64,7 +73,7 @@ export const certifications = [
     date: '03/06/2026',
   },
   {
-    id: 7,
+    id: 8,
     name: 'Tata - GenAI Powered Data Analytics Job Simulation',
     issuer: 'Forage',
     tag: 'Data Analytics',
@@ -74,7 +83,7 @@ export const certifications = [
     date: '18/04/2026',
   },
   {
-    id: 8,
+    id: 9,
     name: 'QUANTUM FUNDAMENTALS',
     issuer: 'Wiser',
     tag: 'Quantum',
@@ -84,7 +93,7 @@ export const certifications = [
     date: '09/02/2026',
   },
   {
-    id: 9,
+    id: 10,
     name: 'Salesforce Certified Agentforce Specialist',
     issuer: 'Salesforce',
     tag: 'CRM',
@@ -94,7 +103,7 @@ export const certifications = [
     date: '28/12/2025',
   },
   {
-    id: 10,
+    id: 11,
     name: 'Web Development Internship Program',
     issuer: 'Hunar Intern',
     tag: 'Internship',
@@ -103,7 +112,7 @@ export const certifications = [
     date: 'Aug 2025',
   },
   {
-    id: 11,
+    id: 12,
     name: 'MongoDB Associate Developer Java',
     issuer: 'MongoDB',
     tag: 'Database',
@@ -113,7 +122,7 @@ export const certifications = [
     date: '13/07/2025',
   },
   {
-    id: 12,
+    id: 13,
     name: 'Microsoft Certified: Azure AI Fundamentals',
     issuer: 'Microsoft',
     tag: 'AI',
@@ -123,7 +132,7 @@ export const certifications = [
     date: '01/07/2025',
   },
   {
-    id: 13,
+    id: 14,
     name: 'ACE CODING INTERVIEWS: DSA Mastery with Java',
     issuer: 'ExcelR',
     tag: 'DSA',
@@ -132,7 +141,7 @@ export const certifications = [
     date: '06/06/2025',
   },
   {
-    id: 14,
+    id: 15,
     name: 'Entrepreneurship',
     issuer: 'NPTEL',
     tag: 'Entrepreneurship',
@@ -141,7 +150,7 @@ export const certifications = [
     date: 'Jul-Oct 2025',
   },
   {
-    id: 15,
+    id: 16,
     name: 'Privacy and Security in Online Social Media',
     issuer: 'NPTEL',
     tag: 'Security',
@@ -150,7 +159,7 @@ export const certifications = [
     date: 'Jan-Apr 2025',
   },
   {
-    id: 16,
+    id: 17,
     name: 'Introduction To Internet Of Things',
     issuer: 'NPTEL',
     tag: 'IoT',
